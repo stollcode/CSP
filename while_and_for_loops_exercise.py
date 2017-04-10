@@ -10,10 +10,10 @@ Create a module on your z:\ drive named z:\csp\while_and_for_loops_exercise.py. 
 ** Problem 1 (printNumbers() function)**
 
 1) Create a function named printNumbers() It should accept parameters named 
-    startNumber and endNumber and print two lists between (and including) them.
-2) Using a while loop, print a list of numbers between startNumber and 
+    startNumber and endNumber and print two sets of numbers between (and including) them.
+2) Using a while loop, print a set of numbers between startNumber and 
     endNumber (inclusive).
-3) Using a for loop, print a list of numbers between startNumber and 
+3) Using a for loop, print a set of numbers between startNumber and 
     endNumber (inclusive).  You must use the range() function in the for loop.
         Hint: Read about the range() function.  You will be using advanced
             range() features in several parts of this exercise.
