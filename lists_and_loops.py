@@ -123,8 +123,8 @@ Create a document named lists_and_loops1.py and save it in your z:\CSP folder.
 
 """
 15) Create a 2d list named armorList. The first column must contain the armor name,
-    The second column must contain attack speed and the third column must contain
-    damage.
+    The second column must contain weight and the third column must contain
+    defense.
 """
 
 
