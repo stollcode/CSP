@@ -7,12 +7,12 @@ Directions
 
 ** Problem 1 **
 
-Given a positive integer N, define the '3N+1' sequence starting from N as follows:
-If N is an even number, then divide N by two; but if N is odd, then multiple N by 3 and add 1.
-Continue to generate numbers in this way until N becomes equal to 1.
+Given a positive integer n, define the '3n+1' sequence starting from n as follows:
+If n is an even number, then divide n by two; but if n is odd, then multiple n by 3 and add 1.
+Continue to generate numbers in this way until n becomes equal to 1.
 
-For example, starting with N=3, which is odd, we multiply by 3 and add 1, giving N = 3*3+1 = 10.  Then, since N is even, we divide by 2, giving N= 10/2 = 5.  We continue in this way, stopping when we reach 1, giving the complete sequence:
-    3, 10, 5, 16, 8, 4, 2, 1
+For example, starting with n = 3, which is odd, we multiply by 3 and add 1, giving n = 3 * 3 + 1 which is 10.  Then, since n is even, we divide by 2, giving n = 10/2 which is 5.  We continue in this way, stopping when we reach 1, giving the complete sequence:
+    10, 5, 16, 8, 4, 2, 1
 
 Write your code below:
 '''
