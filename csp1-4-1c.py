@@ -16,12 +16,12 @@ Directions: Create a Python module named csp1-4-1c.py.  Add the following code t
         i.	isWarmBlooded
         ii.	weight
     b.	Methods:
-        i.  getWarmBlooded()
-        ii.	setWarmBlooded()
-        iii.	getWeight()
-        iv.	setWeight()
-        v.	move()  -  Just print “Mammal Moves” in this method for the moment.
-        vi.	makeNoise()  - Just print “Mammal Makes a Noise”
+        i.   getWarmBlooded()
+        ii.	 setWarmBlooded()
+        iii. getWeight()
+        iv.	 setWeight()
+        v.	 move()  -  Just print “Mammal Moves” in this method for the moment.
+        vi.	 makeNoise()  - Just print “Mammal Makes a Noise”
 
 5.	Create a constructor for the Mammal class that:
     a.	Accepts the values gender, isWarmBlooded, and weight as parameters and
@@ -31,9 +31,9 @@ Directions: Create a Python module named csp1-4-1c.py.  Add the following code t
 
 6.	Define a class named Feline. This class must be a subclass of the Mammal class.
     a.	Attributes:
-        i.	age
-        ii.	type
-        iii.	isDangerous
+        i.	  age
+        ii.	  type
+        iii.  isDangerous
     b.	Methods:
         i.	Getters and setters for all three attributes above.
 7.	Create a constructor for the Feline class that:
@@ -44,9 +44,9 @@ Directions: Create a Python module named csp1-4-1c.py.  Add the following code t
 
 8.	Define a class named Canine. This class must be a subclass of the Mammal class.
     a.	Attributes:
-        i.	age
-        ii.	breed
-        iii.	runSpeed
+        i.	 age
+        ii.	 breed
+        iii. runSpeed
     b.	Methods:
         i.	Getters and setters for all three attributes above.
 
