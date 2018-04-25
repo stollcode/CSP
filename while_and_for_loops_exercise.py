@@ -26,9 +26,6 @@ Write your code below:
 
 
 
-
-
-
 '''
 ** Problem 2 (Data Entry Loop)**
 
